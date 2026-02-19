@@ -6,5 +6,5 @@ npx playwright install
 
 Запуск теста:
 
-npx playwright test checkingHeadings.spec.js
+npx playwright test .*/tests/checkingHeadings.spec.js
 
